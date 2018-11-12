@@ -21,7 +21,8 @@ source envname/bin/activate
 - pip3 install jupyter
 
 #### To Run: 
-> run *jupyter notebook* on terminal
+> run *jupyter notebook* on terminal.
+
 > Go to the Menu section at the top of the Notebook and click Cells ->  
  Run All
 
