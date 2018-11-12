@@ -20,9 +20,10 @@ source envname/bin/activate
 #### Install Jupyter 
 - pip3 install jupyter
 
-Run: 
-> jupyter notebook
-> Go to the Menu section at the top of the Notebook and click Cells ->Run All
+#### To Run: 
+> run *jupyter notebook* on terminal
+> Go to the Menu section at the top of the Notebook and click Cells ->  
+ Run All
 
 Data Source - [National Bureau of Statistics](http://www.nigerianstat.gov.ng/elibrary?page=2&offset=10)
 
