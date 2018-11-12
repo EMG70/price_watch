@@ -23,8 +23,7 @@ source envname/bin/activate
 #### To Run: 
 > run *jupyter notebook* on terminal.
 
-> Go to the Menu section at the top of the Notebook and click Cells ->  
- Run All
+> Go to the Menu section at the top of the Notebook and click Cells -> Run All
 
 Data Source - [National Bureau of Statistics](http://www.nigerianstat.gov.ng/elibrary?page=2&offset=10)
 
