@@ -7,11 +7,13 @@ This repository draw some meaningful conclusions from the food price dataset wit
 #### Install pip On Windows
 - python -m pip install -U pip setuptools
 
-#### Install pip On OS X or Linux
+#### Install/Upgrade pip On OS X or Linux
 - sudo easy_install pip
 - pip install -U pip setuptools
 
-#### Create a virtual environment
+#### Install virtualenv and create a virtual environment
+pip install virtualenv
+
 virtualenv -p python3 envname
 
 #### Activate the environment
