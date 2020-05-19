@@ -29,3 +29,5 @@ source envname/bin/activate
 
 Data Source - [National Bureau of Statistics](http://www.nigerianstat.gov.ng/elibrary?page=2&offset=10)
 
+A blog post summarizing more details can be found [here](https://medium.com/the-andela-way/pandas-for-food-price-analysis-181f91e38b6b)
+
